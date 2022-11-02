@@ -12,4 +12,4 @@ This repository serves as a hub for all the resources that related to the event.
 
 - [Learn Computer Vision](./CV_README.md)
 - [Learn Robotics Operating System (ROS)](./ROS_README.md)
-- [Problem Statement](./images/waiting_bear.jpeg)
+- [Problem Statement](./HardWired.pdf)
